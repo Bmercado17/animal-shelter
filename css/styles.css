@@ -1,3 +1,15 @@
 .container {
   float: left;
+
 }
+.owl {
+  float: left;
+  border-size:border-box;
+}
+.chimp-bio {
+  max-width: 50%;
+}
+p {
+  color: orange;
+}
+.bird
